@@ -1,4 +1,4 @@
-# Smart Doc Flask
+# Deep Diag Flask
 A Flask based App for perfroming diagnosis of Malaria cells and Chest X-ray for pneumonia detection. 
 
 ### Docker Pull command:
